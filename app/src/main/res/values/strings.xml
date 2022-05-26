@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JobStar</string>
+    <string name="jobstar">JobStar</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="about">At JobStar, our mission is to help people get jobs. We have more than 10,000 global employees passionately pursuing this purpose and improving the recruitment journey through real stories and data. We foster a collaborative workplace that strives to create the best experience for job seekers. JobStar strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities.</string>
+</resources>
